@@ -1,0 +1,12 @@
+.container{
+    padding: 50px;
+    margin: 150px;
+}
+.btn{
+   
+   width: 150px;
+}
+.btn1{
+    background: orange !important;
+    border-radius: 90px !important;
+}

@@ -1,0 +1,34 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "sku": "18644119330491312",
+        "title": "Burger",
+        "price": 10,
+        "isFreeShipping": true
+      },
+      {
+        "id": 2,
+        "sku": "1864411933049131",
+        "title": "Pizza",
+        "price": 15,
+        "isFreeShipping": true
+      },
+      {
+        "id": 3,
+        "sku": "18644119330491312",
+        "title": "Fries",
+        "price": 5,
+        "isFreeShipping": true
+      },
+      {
+        "id": 4,
+        "sku": "1864411933049131",
+        "title": "Sandwitch",
+        "price": 7,
+        "isFreeShipping": true
+      }
+  
+    ]
+  }
+  
